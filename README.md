@@ -12,16 +12,12 @@
 ## Introduction
 
 I participated in the Analytics Project Pro Challenge, a comprehensive initiative where data meets analytics to unlock insights and drive meaningful decision-making.
-A Brand Initiative is an NGO that utilizes data from the health industry to better current trends and happenings in the medical field to provide valuable insights to various health organizations across Africa and the world at large. The company has decided to analyze and predict deaths caused by various illnesses and diseases in various parts of the world.i am Task as a Data Analyst Associate who just joined the company and has been tasked to build a dashboard and create a data analytics report using the information provided to me.
+Brand Initiative is an NGO that utilizes data from the health industry to better current trends and happenings in the medical field to provide valuable insights to various health organizations across Africa and the world at large. The company has decided to analyze and predict deaths caused by various illnesses and diseases in various parts of the world.i am Task as a Data Analyst Associate who just joined the company and has been tasked to build a dashboard and create a data analytics report using the information provided to me.
 
 
 ## Data Sources
 
-Explore the dataset and understand its origins:
-
-- [World Health Organization (WHO)](https://www.who.int/): The primary source for global health data.
-- [Johns Hopkins University CSSE](https://github.com/CSSEGISandData/COVID-19): Additional data for COVID-19 related analysis.
-- [Your Additional Data Source]: If applicable, mention any additional data sources used in your analysis.
+Dataset was provided by Octave Incorporation "annual number of deaths by causes" and "number of deaths by age group"
 
 ## Analysis
 
