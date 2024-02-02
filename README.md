@@ -1,13 +1,17 @@
 # Global Death Cases Analysis
 
+![death images](https://github.com/Hassanat36/global_death_project/assets/138366531/3dff57f8-bd89-477c-a2ca-39d6ecfe4ea8)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Data Sources](#data-sources)
-3. [Analysis](#analysis)
-4. [Visualization](#visualization)
-5. [Contributing](#contributing)
-6. [License](#license)
+3. [Tools Used](tools-used)
+4. [Analysis](#analysis)
+5. [Visualization](#visualization)
+6. [Recommendation](#recommendation)
+7. [Conclusion](#conclusion)
 
 ## Introduction
 
@@ -19,32 +23,58 @@ Brand Initiative is an NGO that utilizes data from the health industry to better
 
 Dataset was provided by Octave Incorporation "annual number of deaths by causes" and "number of deaths by age group"
 
+
+## Tools Used
+Tools used for this analysis are:
+- Excel for data cleaning [download here](https://microsoft.com)
+- PowerBI for data visualization [download here](https://powerbi.microsoft.com/en-us/downloads)
+
 ## Analysis
 
 Dive into the analysis of global death cases:
 
-- [Mortality Trends](analysis/mortality_trends.md): Explore trends over time, highlighting significant patterns.
-- [Regional Breakdown](analysis/regional_breakdown.md): Analyze death cases on a regional basis.
-- [Contributing Factors](analysis/contributing_factors.md): Investigate factors contributing to mortality rates.
+ ### Worldwide Deaths:
+ - Across 261 countries, a total of 9 billion deaths have been recorded due to various causes.
+ - Major causes include cardiovascular diseases (3 billion), neoplasms (1 billion), and chronic respiratory diseases (625 million).
+
+ ### Regional Analysis:
+ - The world collectively reports 1.5 billion deaths, while G20 nations alone account for 1.0 billion.
+ - India stands out with the highest number of under-5 deaths at 55 million, followed by Nigeria.
+
+ ### Malaria Impact in Nigeria (1990 - 2020):
+ - Malaria-related deaths in Nigeria witnessed a concerning rise from 148,931 in 1990 to 280,604 in 2008. However, there was a decrease to 266,638 in 2010, followed by a subsequent increase to 19,116,183 in 2019.
+
+ ### Top Causes of Death by Country:
+ - Neoplasms predominantly affect countries like China, the United States, India, Japan, and Russia.
+ - China records the highest death rate due to cardiovascular diseases, reaching 101 million.
+
+ ### HIV/AIDS Impact:
+ - South Africa shows a significant increase in HIV/AIDS-related deaths from 2000 to 2010.
+
 
 ## Visualization
 
 Visual representations enhance understanding:
 
-- [Interactive Dashboards](visualization/interactive_dashboards.md): Utilize interactive dashboards for dynamic exploration.
-- [Charts and Graphs](visualization/charts_and_graphs.md): Visualize key insights through charts and graphs.
+[death case reporr.pdf](https://github.com/Hassanat36/global_death_project/files/14138417/death.case.reporr.pdf)
 
-## Contributing
 
-Contributions are welcome! Whether you're fixing a bug or adding a new feature, your participation helps improve the project. Follow these steps to contribute:
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`.
-3. Commit your changes: `git commit -m 'Add your feature'`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Submit a [pull request](https://docs.github.com/en/get-started/quickstart/create-a-repo#step-3-create-a-branch)!
+## Recommendation
 
-## License
+I.  Combat Malaria in Nigeria:
+ - Given the fluctuating trends in malaria deaths in Nigeria, there's a critical need for consistent and effective malaria control measures. Increased investment in healthcare infrastructure, preventive measures, and awareness campaigns are vital.
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
+II. Strengthen Healthcare Infrastructure:
+ - Across the world, focusing on building robust healthcare systems and access to quality healthcare is crucial. This includes early detection, affordable treatments, and public health initiatives to reduce deaths from prevalent diseases.
 
+III. Sustained Efforts in Combatting HIV/AIDS:
+ - Countries like South Africa need ongoing support in their efforts to combat HIV/AIDS. Strengthening prevention, treatment, and education programs is crucial in reducing these deaths.
+
+1V. Global Collaborations and Data Sharing:
+ - Encouraging international collaboration for data sharing, best practices, and research initiatives could lead to more effective strategies and policies aimed at reducing global death rates.
+
+
+## Conclusion
+
+As I conclude this phase, the implications of My findings extend beyond the boundaries of this challenge. Insights derived from global death rate analysis hold potential implications for public health policies, resource allocation, and targeted interventions. By addressing these recommendations and focusing on specific disease patterns, countries can make significant strides in reducing death rates, improving healthcare access, and enhancing overall public health worldwide.
